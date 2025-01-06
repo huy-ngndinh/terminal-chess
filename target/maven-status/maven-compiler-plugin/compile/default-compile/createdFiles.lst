@@ -1,0 +1,16 @@
+com/huy_ngndinh/client/HighlightHandler.class
+com/huy_ngndinh/client/pieces/Knight.class
+com/huy_ngndinh/client/PositionInterface.class
+com/huy_ngndinh/client/pieces/King.class
+com/huy_ngndinh/client/CounterHandler.class
+com/huy_ngndinh/client/PiecesHandler.class
+com/huy_ngndinh/client/pieces/Bishop.class
+com/huy_ngndinh/App.class
+com/huy_ngndinh/client/pieces/Pawn.class
+com/huy_ngndinh/client/Chessboard.class
+com/huy_ngndinh/client/SideHandler.class
+com/huy_ngndinh/client/PieceInterface.class
+com/huy_ngndinh/client/pieces/Rook.class
+com/huy_ngndinh/client/SelectionHandler.class
+com/huy_ngndinh/client/LogicHandler.class
+com/huy_ngndinh/client/pieces/Queen.class

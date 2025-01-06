@@ -1,0 +1,16 @@
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/App.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/Chessboard.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/CounterHandler.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/HighlightHandler.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/LogicHandler.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/PieceInterface.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/PiecesHandler.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/PositionInterface.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/SelectionHandler.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/SideHandler.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/pieces/Bishop.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/pieces/King.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/pieces/Knight.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/pieces/Pawn.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/pieces/Queen.java
+/Users/Tom/Documents/Projects/terminal-chess/src/main/java/com/huy_ngndinh/client/pieces/Rook.java
